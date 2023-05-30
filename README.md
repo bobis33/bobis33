@@ -4,18 +4,11 @@
 ### I'm an EPITECH student, and Im passionate about everything regarding computing.
 
 
-<br>
-<br/>
-
 <h3 align="left"> 🔌 Connect with me :</h3> 
 
 <p align="left">
 <a href="https://linkedin.com/in/masina elliot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masina elliot" height="30" width="40" /></a>
 </p>
-
-
-<br>
-<br/>
 
 
 <h3 align="left"> ⚒️ Languages and Tools:</h3>
@@ -30,7 +23,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
 <br>
-<br/>
+ <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobis33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  <a href="https://tryhackme.com/p/bobi33" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/bobi33.png?4" alt="TryHackMe"> </p>
