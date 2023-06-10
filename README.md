@@ -1,6 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bobis33&label=Profile%20views&color=0e75b6&style=flat" alt="bobis33" /> </p>
 
-<h3 align=center>Hi everyone !😊<br></br>I'm an EPITECH student, and Im passionate about everything regarding computing.<br></br> 🔌 Connect with me :</h3>
+<h1 align=center>Hi everyone !😊 </h1>
+<h3 align=center>I'm an EPITECH student, and Im passionate about everything regarding computing.<br></br> 🔌 Connect with me :</h3>
 
 <p align="center">
  <a href="mailto:elliot.masina@epitech.eu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" alt="mail" height="40" width="40" /></a>
@@ -25,6 +26,10 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
  </a>
- <br></br>
+</p>
+<p align="center">
  <a href="https://tryhackme.com/p/bobi33" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/bobi33.png?6" alt="TryHackMe"> </a>
+</p>
+<p align="center">
+ <a target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobis33" alt="TryHackMe"> </a>
 </p>
