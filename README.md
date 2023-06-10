@@ -3,8 +3,9 @@
 <h3 align=center>Hi everyone !😊<br></br>I'm an EPITECH student, and Im passionate about everything regarding computing.<br></br> 🔌 Connect with me :</h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/elliot-masina-11020b274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
  <a href="mailto:elliot.masina@epitech.eu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" alt="mail" height="40" width="40" /></a>
+ <a href="https://www.linkedin.com/in/elliot-masina-11020b274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+ <a href="https://discord.com/users/689538114468839571" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" height="40" width="35" /></a>
 </p>
 
 <h3 align="center"> ⚒️ Languages and Tools:</h3>
