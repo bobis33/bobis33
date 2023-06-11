@@ -24,7 +24,6 @@
  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="35" height="35"/> </a>
  <a href="https://fr.legacy.reactjs.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="35"/>  </a> 
  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 <p align="center">
  <a href="https://tryhackme.com/p/bobi33"><img src="https://tryhackme-badges.s3.amazonaws.com/bobi33.png?6" alt="TryHackMe"> </a>
